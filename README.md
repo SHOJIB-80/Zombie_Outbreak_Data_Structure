@@ -11,3 +11,6 @@ The user inputs the size of the grid and the initial infection states.
 The program calculates the minimum time required to infect all reachable areas of the city.
 If some areas cannot be infected, it reports failure.
 The code demonstrates practical usage of queues and BFS for epidemic modeling in C.
+
+## Author
+MD SIRAJUL ISLAM
